@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Development Projects:</h2>
 
 - <b>🔐 Security Monitoring & Detection</b>
-  - [Build your own SOC Home Lab (SIEM)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Build your own SOC Home Lab (SIEM)](Colocar link)
 
 
 
