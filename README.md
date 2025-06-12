@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Development Projects:</h2>
 
 - <b>🔐 Security Monitoring & Detection</b>
-  - [Build your own SOC Home Lab (SIEM)](Colocar link)
+  - [SOC Home Lab (SIEM)](Colocar link)
  
 - <b>🎯 Offensive Security & Awareness</b>
-  - [Create a Phishing Attack Simulator](Colocar link)
+  - [Phishing Attack Simulator](Colocar link)
  
 - <b>🛡️ Endpoint Protection</b>
-  - [Set-up your own Host-based Intrusion Detection System (HIDS)](Colocar link)
+  - [Host-based Intrusion Detection System (HIDS)](Colocar link)
 
 
 
