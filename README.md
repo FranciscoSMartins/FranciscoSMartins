@@ -15,7 +15,7 @@
 
 <h3>Frontend 🌐</h3>
 <ul>
-  <li>Language: HTML, JavaScript</li>
+  <li>Language: HTML, JavaScript, CSS</li>
   <li>Frameworks/Libraries: React, Chakra UI</li>
 </ul>
 
