@@ -7,6 +7,9 @@
 
 - <b> Product Store 🛒 </b>  
   - <a href="https://github.com/FranciscoSMartins/ProductStore">ProductStore</a>
+  
+- <b> Email Management 📧 </b>  
+  - <a href="https://github.com/FranciscoSMartins/Email-Management">Email Management</a>
 
 <h2>🛠️ Technologies & Frameworks:</h2>
 
@@ -18,8 +21,8 @@
 
 <h3>Backend ⚙️</h3>
 <ul>
-  <li>Language: JavaScript</li>
-  <li>Frameworks: Node.js</li>
+  <li>Language: JavaScript, Python</li>
+  <li>Frameworks: Node.js, Flask</li>
   <li>Database: MongoDB</li>
 </ul>
 
@@ -27,6 +30,3 @@
 <ul>
   <li>Postman (API testing)</li>
 </ul>
-
-
-
